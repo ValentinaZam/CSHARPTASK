@@ -10,4 +10,4 @@ int square = num * num;
 Console.WriteLine($"Квадрат числа {square} ");
 
 
-//Прописать что нибудь
+
